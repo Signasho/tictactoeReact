@@ -1,0 +1,13 @@
+
+body {
+    background-color: #0c0c0c;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+  
+  }
+  
+  #titulo{
+    color:white;
+  }
